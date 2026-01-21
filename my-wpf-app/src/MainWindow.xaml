@@ -67,10 +67,10 @@
                         Grid.Row = "1"
                         Grid.Column = "0"
                         Text = "" />
-                    <TextBlock Text = "Player Attack"
+                    <TextBlock Text = "Player Damage"
                         Grid.Row = "0"
                         Grid.Column = "1" />
-                    <TextBox x:Name = "PlayerAttack"
+                    <TextBox x:Name = "PlayerDamage"
                         Grid.Row = "1"
                         Grid.Column = "1"
                         Text = "" />

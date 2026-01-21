@@ -34,12 +34,29 @@ namespace MyWpfApp
             if (selectedEnemy != null)
             {
                 EnemyDetails.Text = $"Enemy: {selectedEnemy.name}\nStats:\n";
+                Calculation calc = new Calculation();
+                calc.ClearEnemyStats();
                 foreach (var stat in selectedEnemy.stats)
                 {
                     EnemyDetails.Text += $"- {stat.statId}: {stat.value}\n";
+                    calc.AddEnemyStat(stat.statId, (float)stat.value);
                 }
             }
-            
+        }
+        private void PlayerStatsSubmit_Click(object sender, RoutedEventArgs e)
+        {
+            Calculation calc = new Calculation();
+            calc.ClearPlayerStats();
+            // MessageBox.Show("Player stats submission is not implemented yet.", "Info", MessageBoxButton.OK, MessageBoxImage.Information);
+            float playerHealth = PlayerHealth.Text != "" ? float.Parse(PlayerHealth.Text) : 0;
+            float playerDamage = PlayerDamage.Text != "" ? float.Parse(PlayerDamage.Text) : 0;
+            float playerDefense = PlayerDefense.Text != "" ? float.Parse(PlayerDefense.Text) : 0;
+            float playerAttackSpeed = PlayerAttackSpeed.Text != "" ? float.Parse(PlayerAttackSpeed.Text) : 0;
+            calc.AddPlayerStat("Health", playerHealth);
+            calc.AddPlayerStat("Damage", playerDamage);
+            calc.AddPlayerStat("Defense", playerDefense);
+            calc.AddPlayerStat("AttackSpeed", playerAttackSpeed);
+            // player attributes
         }
         private static EnemyStatsExport LoadEnemyStatsFromJson()
         {
