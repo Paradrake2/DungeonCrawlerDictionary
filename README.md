@@ -1,0 +1,1 @@
+This is for my capstone project. It is a dictionary of all the enemies in one of my games and will be used to determine whether the player is capable of beating the enemy. The player will input their stats and it will return yes/no. It reads the enemy stats from a json file
