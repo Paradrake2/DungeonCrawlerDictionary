@@ -1,0 +1,233 @@
+{
+    "exportedAt": "1/21/2026 11:39:17 AM",
+    "stats": [
+        {
+            "statId": "AttackSpeed",
+            "displayName": "Attack Speed",
+            "category": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "Damage",
+            "displayName": "Damage",
+            "category": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "DarkDamage",
+            "displayName": "Dark Damage",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "DarkDefense",
+            "displayName": "Dark Defense",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "Defense",
+            "displayName": "Defense",
+            "category": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "DropChance",
+            "displayName": "Drop Chance",
+            "category": 4,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "EarthDamage",
+            "displayName": "Earth Damage",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "EarthDefense",
+            "displayName": "Earth Defense",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "FireDamage",
+            "displayName": "Fire Damage",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "FireDefense",
+            "displayName": "",
+            "category": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "Health",
+            "displayName": "Health",
+            "category": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "LifeSteal",
+            "displayName": "Life Steal",
+            "category": 3,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "LightDamage",
+            "displayName": "Light Damage",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "LightDefense",
+            "displayName": "Light Defense",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "Poison",
+            "displayName": "Poison",
+            "category": 2,
+            "color": {
+                "r": 0.0,
+                "g": 0.4716981053352356,
+                "b": 0.04069894924759865,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "WaterDamage",
+            "displayName": "Water Damage",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "WaterDefense",
+            "displayName": "Water Defense",
+            "category": 0,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "WindDamage",
+            "displayName": "Wind Damage",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        },
+        {
+            "statId": "WindDefense",
+            "displayName": "Wind Defense",
+            "category": 5,
+            "color": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0,
+                "a": 1.0
+            },
+            "isPercentage": false
+        }
+    ]
+}

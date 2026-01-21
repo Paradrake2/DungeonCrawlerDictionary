@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "DungeonCrawlerDictionary/1.0.0": {
+        "runtime": {
+          "DungeonCrawlerDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DungeonCrawlerDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DungeonCrawlerDictionary.csproj" />
+  <Project Path="my-wpf-app/my-wpf-app.csproj" />
+</Solution>

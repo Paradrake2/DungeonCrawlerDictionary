@@ -1,0 +1,17 @@
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net10.0\Imports\EnemyStats.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net10.0\Imports\ExportedStatTypes.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net10.0\DungeonCrawlerDictionary.exe
+c:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net10.0\DungeonCrawlerDictionary.deps.json
+c:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net10.0\DungeonCrawlerDictionary.runtimeconfig.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net10.0\DungeonCrawlerDictionary.dll
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net10.0\DungeonCrawlerDictionary.pdb
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\DungeonCrawlerDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\DungeonCrawlerDictionary.AssemblyInfoInputs.cache
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\DungeonCrawlerDictionary.AssemblyInfo.cs
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\DungeonCrawlerDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\DungeonCrawlerDictionary.sourcelink.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\DungeonCrawlerDictionary.dll
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\refint\DungeonCrawlerDictionary.dll
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\DungeonCrawlerDictionary.pdb
+c:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\DungeonCrawlerDictionary.genruntimeconfig.cache
+c:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net10.0\ref\DungeonCrawlerDictionary.dll

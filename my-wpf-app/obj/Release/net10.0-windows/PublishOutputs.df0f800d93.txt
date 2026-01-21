@@ -1,0 +1,7 @@
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\dist\DungeonCrawlerDictionary\DungeonCrawlerDictionary.exe
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\dist\DungeonCrawlerDictionary\Imports\EnemyStats.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\dist\DungeonCrawlerDictionary\Imports\ExportedStatTypes.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\dist\DungeonCrawlerDictionary\DungeonCrawlerDictionary.dll
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\dist\DungeonCrawlerDictionary\DungeonCrawlerDictionary.deps.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\dist\DungeonCrawlerDictionary\DungeonCrawlerDictionary.runtimeconfig.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\dist\DungeonCrawlerDictionary\DungeonCrawlerDictionary.pdb
