@@ -11,7 +11,7 @@ public class Program
         Console.WriteLine($"Enemies: {export.enemyStats.Count}");
         
         /*
-        // Just to verify things are actuall being read
+        // Just to verify things are actually being read
         var firstEnemy = export.enemyStats[1];
         if (firstEnemy is not null)
         {
@@ -19,7 +19,7 @@ public class Program
         }
         */
 
-        
+
     }
 
     private static EnemyStatsExport LoadEnemyStatsFromJson()

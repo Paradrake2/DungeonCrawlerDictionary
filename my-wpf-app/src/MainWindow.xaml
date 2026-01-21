@@ -10,7 +10,6 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <!-- NEW: columns for list + details -->
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="2*"/>
             <ColumnDefinition Width="12"/>
@@ -18,32 +17,79 @@
         </Grid.ColumnDefinitions>
 
         <TextBlock x:Name="StatusText"
-                    Grid.Row="0"
-                    Grid.Column="0"
-                    Grid.ColumnSpan="3"
-                    FontSize="14" />
+            Grid.Row="0"
+            Grid.Column="0"
+            Grid.ColumnSpan="3"
+            FontSize="14" />
 
         <ListBox x:Name="EnemiesList"
-                    Grid.Row="2"
-                    Grid.Column="0"
-                    DisplayMemberPath="name"
-                    SelectionChanged="EnemiesList_SelectionChanged" />
+            Grid.Row="2"
+            Grid.Column="0"
+            DisplayMemberPath="name"
+            SelectionChanged="EnemiesList_SelectionChanged" />
         <Grid Grid.Row = "2" Grid.Column = "2">
             <Grid.RowDefinitions>
                 <RowDefinition Height = "*" />
                 <RowDefinition Height = "*" />
             </Grid.RowDefinitions>
             <TextBlock x:Name="EnemyDetails"
-                        Grid.Row="0"
-                        Grid.Column="0"
-                        Text="Select an enemy to see details."
-                        TextWrapping="Wrap" />
-            <TextBlock x:Name = "PlayerDetails"
-                        Grid.Row= "1"
-                        Grid.Column="0"
-                        Grid.ColumnSpan="2"
-                        Text="Player details will be shown here."
-                        TextWrapping="Wrap" />
+                Grid.Row="0"
+                Grid.Column="0"
+                Text="Select an enemy to see details."
+                TextWrapping="Wrap" />
+
+            <Grid Grid.Row = "1" Grid.Column = "0">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height = "Auto" />
+                    <RowDefinition Height = "*" />
+                </Grid.RowDefinitions>
+                <TextBlock x:Name = "PlayerDetails"
+                    Grid.Row= "0"
+                    Grid.Column="0"
+                    Grid.ColumnSpan="2"
+                    Text="Player details will be shown here."
+                    TextWrapping="Wrap" />
+                <Grid Grid.Row = "3" Grid.Column = "3">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width = "*" />
+                        <ColumnDefinition Width = "*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height = "Auto" />
+                        <RowDefinition Height = "Auto" />
+                        <RowDefinition Height = "Auto" />
+                        <RowDefinition Height = "Auto" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text = "Player Health"
+                        Grid.Row = "0"
+                        Grid.Column = "0" />
+                    <TextBox x:Name = "PlayerHealth"
+                        Grid.Row = "1"
+                        Grid.Column = "0"
+                        Text = "" />
+                    <TextBlock Text = "Player Attack"
+                        Grid.Row = "0"
+                        Grid.Column = "1" />
+                    <TextBox x:Name = "PlayerAttack"
+                        Grid.Row = "1"
+                        Grid.Column = "1"
+                        Text = "" />
+                    <TextBlock Text = "Player Defense"
+                        Grid.Row = "2"
+                        Grid.Column = "0" />
+                    <TextBox x:Name = "PlayerDefense"
+                        Grid.Row = "3"
+                        Grid.Column = "0"
+                        Text = "" />
+                    <TextBlock Text = "Player Attack Speed"
+                        Grid.Row = "2"
+                        Grid.Column = "1" />
+                    <TextBox x:Name = "PlayerAttackSpeed"
+                        Grid.Row = "3"
+                        Grid.Column = "1"
+                        Text = "" />
+                </Grid>
+            </Grid>
         </Grid>
     </Grid>
 </Window>
