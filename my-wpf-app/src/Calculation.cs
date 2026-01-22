@@ -1,4 +1,4 @@
-namespace my_wpf_app
+namespace MyWpfApp
 {
     public class Calculation
     {
@@ -19,6 +19,7 @@ namespace my_wpf_app
             // then calculate how many hits it takes for the enemy to kill the player
             // multiply that by attack speed
             // if the value of above to kill player is less than number of hits to kill enemy, return false
+            // attributes are gonna be a pain
             return true;
         }
         public void AddPlayerStat(string name, float value)
