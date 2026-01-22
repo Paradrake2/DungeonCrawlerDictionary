@@ -1,6 +1,6 @@
 using System.Windows;
 
-namespace MyWpfApp
+namespace DCD
 {
     public partial class App : Application
     {

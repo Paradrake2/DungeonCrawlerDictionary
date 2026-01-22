@@ -5,7 +5,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net10.0-windows</TargetFramework>
     <UseWPF>true</UseWPF>
-    <RootNamespace>MyWpfApp</RootNamespace>
+    <RootNamespace>DCD</RootNamespace>
     <AssemblyName>DungeonCrawlerDictionary</AssemblyName>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>

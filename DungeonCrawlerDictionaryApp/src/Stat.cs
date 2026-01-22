@@ -1,4 +1,4 @@
-namespace MyWpfApp
+namespace DCD
 {
     public class Stat
     {

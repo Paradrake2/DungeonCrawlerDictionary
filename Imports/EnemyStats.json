@@ -1,5 +1,5 @@
 {
-    "exportedAt": "1/21/2026 11:32:47 AM",
+    "exportedAt": "1/22/2026 6:38:25 PM",
     "enemyStats": [
         {
             "name": "AlbinoSpider",
@@ -74,6 +74,61 @@
             },
             "goldDropped": 2.0,
             "experienceDropped": 6.0
+        },
+        {
+            "name": "TestEnemy",
+            "assetPath": "Assets/Resources/EnemyStatsHolder/TestEnemy.asset",
+            "resourcesPath": "Assets/Resources/EnemyStatsHolder/TestEnemy.asset",
+            "stats": [
+                {
+                    "statId": "Health",
+                    "displayName": "Health",
+                    "category": 0,
+                    "value": 10000.0
+                },
+                {
+                    "statId": "Damage",
+                    "displayName": "Damage",
+                    "category": 0,
+                    "value": 0.0010000000474974514
+                },
+                {
+                    "statId": "Defense",
+                    "displayName": "Defense",
+                    "category": 0,
+                    "value": 0.0
+                },
+                {
+                    "statId": "DarkDefense",
+                    "displayName": "Dark Defense",
+                    "category": 5,
+                    "value": 22.0
+                },
+                {
+                    "statId": "DarkDamage",
+                    "displayName": "Dark Damage",
+                    "category": 5,
+                    "value": 22.0
+                },
+                {
+                    "statId": "LightDamage",
+                    "displayName": "Light Damage",
+                    "category": 5,
+                    "value": 11.0
+                },
+                {
+                    "statId": "LightDefense",
+                    "displayName": "Light Defense",
+                    "category": 5,
+                    "value": 2.0
+                }
+            ],
+            "enemyAttributesList": [],
+            "dropTable": {
+                "instanceID": 0
+            },
+            "goldDropped": 0.0,
+            "experienceDropped": 0.0
         }
     ]
 }
