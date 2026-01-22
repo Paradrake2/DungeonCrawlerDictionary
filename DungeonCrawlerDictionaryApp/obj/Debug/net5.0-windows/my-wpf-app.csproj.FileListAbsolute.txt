@@ -1,0 +1,1 @@
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\obj\Debug\net5.0-windows\DungeonCrawlerDictionaryApp.csproj.AssemblyReference.cache

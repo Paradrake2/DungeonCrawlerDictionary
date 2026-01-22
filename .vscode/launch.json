@@ -10,7 +10,7 @@
       "args": [
         "run",
         "--project",
-        "${workspaceFolder}/my-wpf-app/my-wpf-app.csproj"
+        "${workspaceFolder}/DungeonCrawlerDictionaryApp/DungeonCrawlerDictionaryApp.csproj"
       ],
       "cwd": "${workspaceFolder}",
       "console": "internalConsole",

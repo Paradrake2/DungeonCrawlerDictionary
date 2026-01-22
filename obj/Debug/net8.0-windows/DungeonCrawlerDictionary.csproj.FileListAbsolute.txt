@@ -5,10 +5,10 @@ C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net8.0-windows\
 C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net8.0-windows\DungeonCrawlerDictionary.runtimeconfig.json
 C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net8.0-windows\DungeonCrawlerDictionary.dll
 C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\bin\Debug\net8.0-windows\DungeonCrawlerDictionary.pdb
-C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\my-wpf-app\src\App.baml
-C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\my-wpf-app\src\MainWindow.baml
-C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\my-wpf-app\src\App.g.cs
-C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\my-wpf-app\src\MainWindow.g.cs
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\DungeonCrawlerDictionaryApp\src\App.baml
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\DungeonCrawlerDictionaryApp\src\MainWindow.baml
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\DungeonCrawlerDictionaryApp\src\App.g.cs
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\DungeonCrawlerDictionaryApp\src\MainWindow.g.cs
 C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\DungeonCrawlerDictionary_Content.g.cs
 C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\DungeonCrawlerDictionary_MarkupCompile.cache
 C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\obj\Debug\net8.0-windows\DungeonCrawlerDictionary.g.resources

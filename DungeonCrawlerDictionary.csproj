@@ -8,10 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="my-wpf-app\**\*.cs" />
-    <Content Remove="my-wpf-app\**\*" />
-    <EmbeddedResource Remove="my-wpf-app\**\*" />
-    <None Remove="my-wpf-app\**\*" />
+    <Compile Remove="DungeonCrawlerDictionaryApp\**\*.cs" />
+    <Content Remove="DungeonCrawlerDictionaryApp\**\*" />
+    <EmbeddedResource Remove="DungeonCrawlerDictionaryApp\**\*" />
+    <None Remove="DungeonCrawlerDictionaryApp\**\*" />
   </ItemGroup>
 
   <ItemGroup>

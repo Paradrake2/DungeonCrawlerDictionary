@@ -7,7 +7,7 @@
       "command": "dotnet",
       "args": [
         "build",
-        "${workspaceFolder}/my-wpf-app/my-wpf-app.csproj",
+        "${workspaceFolder}/DungeonCrawlerDictionaryApp/DungeonCrawlerDictionaryApp.csproj",
         "-v:minimal"
       ],
       "problemMatcher": ["$msCompile"],

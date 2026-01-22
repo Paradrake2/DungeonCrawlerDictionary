@@ -1,0 +1,7 @@
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\bin\Release\net10.0-windows\publish\MyWpfApp.exe
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\bin\Release\net10.0-windows\publish\Imports\EnemyStats.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\bin\Release\net10.0-windows\publish\Imports\ExportedStatTypes.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\bin\Release\net10.0-windows\publish\MyWpfApp.dll
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\bin\Release\net10.0-windows\publish\MyWpfApp.deps.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\bin\Release\net10.0-windows\publish\MyWpfApp.runtimeconfig.json
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\bin\Release\net10.0-windows\publish\MyWpfApp.pdb

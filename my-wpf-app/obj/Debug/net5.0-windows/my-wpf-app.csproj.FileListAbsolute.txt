@@ -1,1 +1,0 @@
-C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\my-wpf-app\obj\Debug\net5.0-windows\my-wpf-app.csproj.AssemblyReference.cache
