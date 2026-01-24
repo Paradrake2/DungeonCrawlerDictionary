@@ -20,3 +20,4 @@ C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryA
 C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\obj\Debug\net10.0-windows\DungeonCrawlerDictionary.pdb
 C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\obj\Debug\net10.0-windows\DungeonCrawlerDictionaryApp.genruntimeconfig.cache
 C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\obj\Debug\net10.0-windows\ref\DungeonCrawlerDictionary.dll
+C:\Users\Leo\OneDrive\Desktop\DungeonCrawlerDictionary\DungeonCrawlerDictionaryApp\bin\Debug\net10.0-windows\Imports\PlayerStatsExport.json

@@ -1,0 +1,53 @@
+{
+    "exportedAt": "1/24/2026 1:30:20 PM",
+    "playerStats": [
+        {
+            "statId": "Health",
+            "displayName": "Health",
+            "category": 0,
+            "value": 110.0
+        },
+        {
+            "statId": "Damage",
+            "displayName": "Damage",
+            "category": 0,
+            "value": 4.0
+        },
+        {
+            "statId": "Defense",
+            "displayName": "Defense",
+            "category": 0,
+            "value": 10.0
+        },
+        {
+            "statId": "AttackSpeed",
+            "displayName": "Attack Speed",
+            "category": 0,
+            "value": 1.0
+        },
+        {
+            "statId": "Poison",
+            "displayName": "Poison",
+            "category": 2,
+            "value": 20.0
+        },
+        {
+            "statId": "WindDamage",
+            "displayName": "Wind Damage",
+            "category": 5,
+            "value": 10.0
+        },
+        {
+            "statId": "WindDefense",
+            "displayName": "Wind Defense",
+            "category": 5,
+            "value": 20.0
+        },
+        {
+            "statId": "LightDefense",
+            "displayName": "Light Defense",
+            "category": 5,
+            "value": 2.0
+        }
+    ]
+}

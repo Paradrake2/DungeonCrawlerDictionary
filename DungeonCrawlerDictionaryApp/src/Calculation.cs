@@ -7,7 +7,7 @@ namespace DCD
     {
         private List<Stat> playerStats = new List<Stat>();
         private List<Stat> enemyStats = new List<Stat>();
-        
+        private Stat weakness = new Stat("", 0f);
         public bool CanDefeatEnemy()
         {
             Console.WriteLine("Starting CanDefeatEnemy calculation...");
@@ -62,6 +62,10 @@ namespace DCD
                 + CalculateDamageAfterDefense(playerWindDamage, enemyWindDefense)
                 + CalculateDamageAfterDefense(playerLightDamage, enemyLightDefense)
                 + CalculateDamageAfterDefense(playerDarkDamage, enemyDarkDefense);
+            if (weakness.name != "")
+            {
+                totalPlayerDamage = totalPlayerDamage * weakness.value;
+            }
             float totalEnemyDamage = CalculateDamageAfterDefense(enemyDamage, playerDefense)
                 + CalculateDamageAfterDefense(enemyWaterDamage, playerWaterDefense)
                 + CalculateDamageAfterDefense(enemyFireDamage, playerFireDefense)
@@ -102,6 +106,10 @@ namespace DCD
         public void ClearPlayerStats()
         {
             playerStats.Clear();
+        }
+        public void SetEnemyWeakness(string name, float value)
+        {
+            weakness = new Stat(name, value);
         }
         float GetPlayerStat(string name)
         {

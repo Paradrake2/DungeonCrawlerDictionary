@@ -77,6 +77,7 @@
                         <RowDefinition Height = "Auto" />
                         <RowDefinition Height = "Auto" />
                         <RowDefinition Height = "Auto" />
+                        <RowDefinition Height = "Auto" />
                     </Grid.RowDefinitions>
                     <TextBlock Text = "Player Health"
                         Grid.Row = "0"
@@ -189,13 +190,13 @@
                         Grid.Row = "15"
                         Grid.Column = "1"
                         Text = "" />
-                    <Button x:Name = "SubmitPlayerStatsButton"
+                    <Button x:Name = "LoadPlayerStatsButton"
                         Grid.Row = "16"
                         Grid.Column = "0"
                         Grid.ColumnSpan = "2"
                         Margin = "0,8,0,0"
-                        Content = "Submit Player Stats"
-                        Click="PlayerStatsSubmit_Click"
+                        Content = "Load Player Stats"
+                        Click="LoadPlayerStatsButton_Click"
                         />
                     <Button x:Name = "CalculateButton"
                         Grid.Row = "17"
