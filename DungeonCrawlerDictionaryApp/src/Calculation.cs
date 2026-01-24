@@ -82,6 +82,7 @@ namespace DCD
             // adjust for attack speed
             float timeToDefeatEnemy = hitsToDefeatEnemy / playerAttackSpeed;
             float timeToDefeatPlayer = hitsToDefeatPlayer / enemyAttackSpeed;
+            // Calculate how much health the player has left after defeating the enemy
             if (timeToDefeatPlayer < timeToDefeatEnemy)
             {
                 Console.WriteLine("Player cannot defeat enemy.");
