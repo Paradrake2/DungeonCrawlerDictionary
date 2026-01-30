@@ -8,6 +8,7 @@ namespace DCD
         private List<Stat> playerStats = new List<Stat>();
         private List<Stat> enemyStats = new List<Stat>();
         private Stat weakness = new Stat("", 0f);
+        private float remainingHealth = 0f;
         public bool CanDefeatEnemy()
         {
             Console.WriteLine("Starting CanDefeatEnemy calculation...");
@@ -88,6 +89,7 @@ namespace DCD
                 Console.WriteLine("Player cannot defeat enemy.");
                 return false;
             }
+            remainingHealth = playerHealth - (totalEnemyDamage * timeToDefeatEnemy * enemyAttackSpeed);
             return true;
         }
         public void AddPlayerStat(string name, float value)
@@ -141,6 +143,11 @@ namespace DCD
         {
             float effectiveDamage = damage - defense;
             return effectiveDamage > 0 ? effectiveDamage : 0;
+        }
+        public float GetRemainingHealth()
+        {
+
+            return remainingHealth;
         }
     }
     

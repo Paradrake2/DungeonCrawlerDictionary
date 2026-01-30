@@ -119,7 +119,7 @@ namespace DCD
             // and enemy stats have been added via EnemiesList_SelectionChanged
             Debug.WriteLine("Starting calculation to determine if player can defeat enemy...");
             bool canDefeat = calc.CanDefeatEnemy();
-            string message = canDefeat ? "You can defeat the enemy!" : "You cannot defeat the enemy.";
+            string message = canDefeat ? "You can defeat the enemy! \n Remaining health: " + calc.GetRemainingHealth() : "You cannot defeat the enemy.";
             MessageBox.Show(message, "Calculation Result", MessageBoxButton.OK, MessageBoxImage.Information);
         }
         private static EnemyStatsExport LoadEnemyStatsFromJson()
