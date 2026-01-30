@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DungeonCrawlerDictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50ccd54a3523a199fb17b69bce4bf1d58ac88869")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca566e3a36db9ebb0c14a2e94acf2e9aae861a85")]
 [assembly: System.Reflection.AssemblyProductAttribute("DungeonCrawlerDictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DungeonCrawlerDictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

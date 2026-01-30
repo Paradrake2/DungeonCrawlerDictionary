@@ -8,32 +8,29 @@
     "net10.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Leo\\.nuget\\packages\\": {},
+    "C:\\Users\\thund\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leo\\OneDrive\\Desktop\\DungeonCrawlerDictionary\\DungeonCrawlerDictionaryApp\\DungeonCrawlerDictionaryApp.csproj",
+      "projectUniqueName": "C:\\Users\\thund\\Desktop\\DungeonCrawlerDictionary\\DungeonCrawlerDictionary-main\\DungeonCrawlerDictionaryApp\\DungeonCrawlerDictionaryApp.csproj",
       "projectName": "DungeonCrawlerDictionary",
-      "projectPath": "C:\\Users\\Leo\\OneDrive\\Desktop\\DungeonCrawlerDictionary\\DungeonCrawlerDictionaryApp\\DungeonCrawlerDictionaryApp.csproj",
-      "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leo\\OneDrive\\Desktop\\DungeonCrawlerDictionary\\DungeonCrawlerDictionaryApp\\obj\\",
+      "projectPath": "C:\\Users\\thund\\Desktop\\DungeonCrawlerDictionary\\DungeonCrawlerDictionary-main\\DungeonCrawlerDictionaryApp\\DungeonCrawlerDictionaryApp.csproj",
+      "packagesPath": "C:\\Users\\thund\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\thund\\Desktop\\DungeonCrawlerDictionary\\DungeonCrawlerDictionary-main\\DungeonCrawlerDictionaryApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\thund\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
       ],
       "originalTargetFrameworks": [
         "net10.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

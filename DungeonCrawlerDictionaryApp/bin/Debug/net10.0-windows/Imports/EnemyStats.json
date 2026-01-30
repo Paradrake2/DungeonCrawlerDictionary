@@ -243,6 +243,12 @@
                     "displayName": "Light Defense",
                     "category": 5,
                     "value": 2.0
+                },
+                {
+                    "statId": "AttackSpeed",
+                    "displayName": "Attack Speed",
+                    "category": 0,
+                    "value": 1.0
                 }
             ],
             "enemyAttributesList": [],
